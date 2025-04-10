@@ -80,7 +80,7 @@ These additional factors modify the non‑universal outcome:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/PlanningHubChallenge.git
+   git clone https://github.com/kteli/PlanningHubChallenge.git
    
    cd PlanningHubChallenge
    ```
